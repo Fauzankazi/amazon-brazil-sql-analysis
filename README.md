@@ -34,6 +34,7 @@ Microsoft PowerPoint for presentation
 
 Dataset
 Olist Brazilian E-Commerce Dataset. The analysis combines relevant tables such as orders, order_items, customers, sellers, products, order_payments, and order_reviews.
+File: https://drive.google.com/file/d/12Fb1OeUb_55_Fn_0rlOFHmoI5sieov7p/view?usp=sharing
 
 Repository Contents
 
